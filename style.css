@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+h1 {
+    background-color: aliceblue;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+p {
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#p1 {
+    background-color: brown;
+    color: beige;
+}
+
+#p2 {
+    background-color: white;
+    opacity: .8;
+    font-weight: bolder;
+}
